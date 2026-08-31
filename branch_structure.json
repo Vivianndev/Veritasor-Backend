@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/933-user-repository-coverage-404",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/933-user-repository-coverage-404": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/933-user-repository-coverage-404",
+    "origin"
+  ]
+}
